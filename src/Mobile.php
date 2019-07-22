@@ -9,7 +9,7 @@ use Baghayi\Value\Exception\InvalidMobilePhoneNumber;
 class Mobile
 {
     const MOBILE_REGEX = '/^(\+98|0098|0)?(9[0-9]{9})$/';
-    private const MOBILE_STORAGE_FORMAT = "+989%s";
+    const MOBILE_STORAGE_FORMAT = "+989%s";
 
     private $mobile;
 
