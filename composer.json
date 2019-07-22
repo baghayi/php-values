@@ -1,0 +1,14 @@
+{
+    "name": "baghayi/php-values",
+    "description": "Simple PHP Value Objects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hüsen Baghayi",
+            "email": "hossein.baghayi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
